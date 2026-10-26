@@ -2,10 +2,10 @@
     имя = "skyforge-urltidy"
     версия = "0.1.0"
     автор = "SkyPackages"
-    описание = "Сокращение и восстановление GitHub-ссылок на релизы."
+    описание = "Сокращение ссылок."
     репозиторий = "github.com/skytech-alt/skyforge-urltidy"
     точка_входа = "code/main.skf"
-    теги = ["url", "github", "shorten"]
+    теги = ["url", "github"]
     лицензия = "MIT"
     зависимости = []
 }
